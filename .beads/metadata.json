@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "actinode_community",
+  "project_id": "8c884009-f4c9-435d-87c6-3075a843f5b9"
+}
