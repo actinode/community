@@ -4,7 +4,17 @@ All notable changes to actinode packages are documented here.
 
 ## @actinode/express-activitylog
 
-### v0.2.1 — Latest
+### v0.2.4 — Latest
+- Added community and support links to README
+- Updated docs with community section
+
+### v0.2.3
+- Added docs.actinode.com links and badges to README
+
+### v0.2.2
+- Added docs.actinode.com links and badges to README
+
+### v0.2.1
 - Renamed blacklist → denyList
 - Renamed whitelist → allowList
 - Updated docs
@@ -26,7 +36,17 @@ All notable changes to actinode packages are documented here.
 
 ## @actinode/express-permission
 
-### v0.1.0 — Latest
+### v0.1.3 — Latest
+- Added community and support links to README
+- Updated docs with community section
+
+### v0.1.2
+- Added docs.actinode.com links and badges to README
+
+### v0.1.1
+- Added docs.actinode.com links and badges to README
+
+### v0.1.0
 - Initial release
 - Role management
 - Direct permissions
